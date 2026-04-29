@@ -5,7 +5,7 @@
 ### 360 Video
 
 ### Audio
-audiores_D5F370EC_C731_2857_41CD_002715F674A2.mp3Url = media/audio_CB99C666_C731_6853_416E_846D623CC28A_pt.mp3
+audiores_D8333958_D74B_EED5_41B3_C80D540ABE19.mp3Url = media/audio_D992B1FA_D74B_21D4_41DD_C8A800C1DF69_pt.mp3
 
 ### Audio Subtitles
 
